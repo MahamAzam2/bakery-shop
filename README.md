@@ -149,15 +149,3 @@ npm run dev                # runs on http://localhost:3000
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📞 Support
-
-For support, email mahamazam18@gmail.com or open an issue in the GitHub repository.
-
----
-
-**Built with ❤️ in Lahore, Pakistan**
