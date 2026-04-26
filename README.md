@@ -109,12 +109,7 @@ npm run dev                # runs on http://localhost:3000
 |-------|--------------------|------------|
 | Admin | admin@bakery.com   | admin123   |
 
-## Contact Information (Lahore Bakery)
 
-- **Email**: mahamazam18@gmail.com
-- **Phone**: +92 325 8180484
-- **Location**: Lahore, Pakistan
-- **Hours**: Mon-Sat: 6AM-8PM | Sun: 7AM-6PM
 
 ## API Endpoints
 
